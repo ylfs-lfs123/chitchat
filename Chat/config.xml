@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.pizzasause.examplechat"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Chat</name>
+
+  <description>
+      Chat
+  </description>
+
+  <author href="ylfs.blogspot.com" email="eqaanonline@gmail.com">
+      Taha Badar
+  </author>
+<icon src="icon.png" />
+</widget>
